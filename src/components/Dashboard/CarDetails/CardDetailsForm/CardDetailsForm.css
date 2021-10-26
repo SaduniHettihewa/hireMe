@@ -1,0 +1,8 @@
+.carD{
+    background: rgb(252,255,255);
+    background: linear-gradient(90deg, rgb(191, 241, 241) 15%, rgb(213, 219, 214) 35%, rgb(126, 243, 218) 64%, rgba(253,255,255,0.7959558823529411) 85%);
+    height: 140vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

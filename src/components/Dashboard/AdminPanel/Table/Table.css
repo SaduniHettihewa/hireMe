@@ -1,0 +1,21 @@
+.Display{
+  
+  justify-content: space-between;
+ 
+  
+    
+}
+.header{
+ margin-left:20px;
+ color: rgb(30, 48, 48);
+
+}
+.table {
+  margin-left: 40%;
+ position: absolute;
+ top:40%
+}
+.data{
+  margin-left:20px;
+  color: rgb(107, 117, 117);
+}

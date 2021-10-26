@@ -1,0 +1,10 @@
+.carDetails{
+    background: rgb(252,255,255);
+    background: linear-gradient(90deg, rgb(191, 241, 241) 15%, rgb(226, 233, 228) 35%, rgba(208,249,240,1) 64%, rgba(253,255,255,0.7959558823529411) 85%);
+    height: 140vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* opacity: 0.4 ; */
+   
+}

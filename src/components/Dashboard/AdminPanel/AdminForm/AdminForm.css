@@ -1,0 +1,99 @@
+
+.form{
+ margin-right: 50%;
+
+}
+.form{
+   margin-left: 8%;
+   margin-top: 2%;
+}
+
+.hedearForm{
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(54, 58, 58);
+    font-weight: 500;
+    position: relative;
+    left: 12%;
+    
+}
+
+.submitB{
+    margin-left: 20%;
+    margin-top: 3%;
+    border-radius: 10px;
+    background-color: rgb(36, 196, 196);
+    border: rgb(54, 224, 230);
+}
+
+.form-control{
+    width: 300px;
+    margin-top: 15px;
+    border-radius: 20px;
+    color: rgb(48, 187, 187);
+    text-align: center;
+    border: 2px solid rgb(33, 207, 207) ;
+}
+.update{
+    margin-left: 15%;
+    margin-top: -80px;
+    border-radius: 10px;
+    background-color: rgb(30, 194, 104);
+    border: rgb(31, 207, 90);
+    width: 200px;
+  }
+  .Search{
+    margin-left: 30%;
+    margin-top: -80px;
+    border-radius: 10px;
+    background-color: rgb(219, 186, 0);
+    border: rgb(243, 202, 18);
+    width: 200px;
+  }
+  .formModify{
+     margin-top: 10%;
+  }
+  .hedearForm2{
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+    color: rgb(54, 58, 58);
+    font-weight: 500;
+    position: relative;
+    left: 40%;
+   
+}
+.form-controlId{
+    margin-left: 5%;
+    position: relative;
+    top:-90px;
+    width: 120px;
+    border: 2px rgb(64, 230, 221) solid;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(34, 39, 41);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form-controlUser{
+    margin-left: 5%;
+    position: relative;
+    top:-90px;
+    width: 180px;
+    border: 2px rgb(64, 230, 221) solid;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(34, 39, 41);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form-controlUserEmail{
+    margin-left: 5%;
+    position: relative;
+    top:-90px;
+    width: 300px;
+    border: 2px rgb(64, 230, 221) solid;
+    border-radius: 5px;
+    text-align: center;
+    color: rgb(34, 39, 41);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
