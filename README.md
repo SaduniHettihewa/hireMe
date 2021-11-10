@@ -1,12 +1,14 @@
 
-# HireMe - This application for car rentering service. HireMe is basically demostration of 
-# CRUD operations.
+# HireMe - This application for car rentering service. HireMe is basically demostration of CRUD operations.
+
+## Technology : - React + Spring Boot + MySql
+
 This is a administration application.
 - Admin can add another admins into the system and can use UPDTE , DELETE function .
 - Admin Can add Car Details into the stystem and can do DELETE ,UPDATE.
 - Admin can Manage Car suppliers details also
 
-#Technology : - React + Spring Boot + MySql
+
 
 
 
