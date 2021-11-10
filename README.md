@@ -1,3 +1,30 @@
+
+# HireMe - This application for car rentering service. HireMe is basically demostration of 
+# CRUD operations.
+This is a administration application.
+- Admin can add another admins into the system and can use UPDTE , DELETE function .
+- Admin Can add Car Details into the stystem and can do DELETE ,UPDATE.
+- Admin can Manage Car suppliers details also
+
+#Technology : - React + Spring Boot + MySql
+
+
+
+
+
+
+![Screenshot (863)](https://user-images.githubusercontent.com/65414736/141059540-fa9bab12-7747-4bb1-89b9-841a19f803ab.png)
+
+Landing Page
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
